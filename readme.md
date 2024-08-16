@@ -1,0 +1,94 @@
+# Vefforritun 1, 2024
+
+Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 kenndan við HÍ haustið 2024.
+
+Sjá yfirferð í fyrirlestri 1 um hvernig uppbygging á námskeiðinu og námsefni er.
+
+## Kennsluáætlun
+
+| Vika | Mánudagur     | Viðfangsefni                                                             | Verkefni                  | Skil                      |
+| ---- | ------------- | ------------------------------------------------------------------------ | ------------------------- | ------------------------- |
+| 1    | 19. ágúst     | Kynning; inngangur; HTML; Netlify                                        | Verkefni 1                |                           |
+| 2    | 26. ágúst     | Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO             | Verkefni 2                | Verkefni 1                |
+| 3    | 2. september  | CSS; box model; specificity og cascade; visual formatting; Letur & litir | Verkefni 3                | Verkefni 2                |
+| 4    | 9. september  | Flexbox; CSS virkni & stuðningur                                         | Verkefni 4                | Verkefni 3                |
+| 5    | 16. september | Skalanlegir vefir; hönnun; grid; kvikun                                  | Verkefni 5                | Verkefni 4                |
+| 6    | 23. september | node.js & npm; Sass & Stylelint CSS í stærri verkefnum                   | Verkefni 5; Hópverkefni 1 |                           |
+| 7    | 30. september | Git & GitHub; JavaScript: gildi, týpur, virkjar                          |                           | Verkefni 5                |
+| 8    | 7. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                           | Verkefni 6                |                           |
+| 9    | 14. október   | Einingar; forritun á vef: DOM og atburðir                                | Verkefni 7                | Verkefni 6                |
+| 10   | 21. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                           | Verkefni 8; Hópverkefni 2 | Verkefni 7; Hópverkefni 1 |
+| 11   | 28. október   | Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun            | Verkefni 9                | Verkefni 8                |
+| 12   | 4. nóvember   | Hlutir; HTML5 og Web APIs; prófanir                                      | Verkefni 10               | Verkefni 9                |
+| 13   | 11. nóvember  | Aðstoð, umræður; verkefnatími; upplýsingar um lokapróf                   |                           | Verkefni 10               |
+| 14   | 18. nóvember  | Samantekt og upprifjun; aðstoð; umræður                                  |                           | Hópverkefni 2             |
+
+Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md).
+
+[Kennslualmanak háskólaárið 2024–2025](https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=51730%3Den).
+
+## Vikublöð
+
+Hvert vikublað samanstendur af:
+
+- Fyrirlestrum vikunnar, vísun í upptekna fyrirlestra og hugsanlega aukaefni tengt þeim.
+- Námsefni, lesefni og lykilhugtök fyrir vikuna.
+- Dæmi tengd fyrirlestrum og lesefni, skoða ætti og keyra dæmi meðfram uppteknum fyrirlestrum. Farið verður yfir að einhverju leiti í tíma.
+- „Verkefni vikunnar“ inniheldur verkefni fyrir vikuna sem nemendur vinna: í tímum, dæmatímum og sjálfstætt.
+- Lykilhugtök sem farið er yfir í vikunni.
+
+## Námsefni og lesefni
+
+[Allt námsefni og lesefni er undir `namsefni/`](/namsefni).
+
+## Lykilhugtök
+
+[Samansafn af öllum lykilhugtökum, lýsingu á þeim og tengingar við vikur](./lykilhugtok.md).
+
+### Fyrirlestrar
+
+Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
+
+Námsefni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálfir fara í nánari yfirferð á mikilvægum atriðum úr fyrirlestrum, yfirferð á dæmum og umræður.
+
+[Upptökur af öllum fyrirlestrum á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozyMG9VdNdl8qQHmfWK7zW9Y).
+
+### Dæmi
+
+[Öll dæmi eru undir viðeigandi námsefni í `daemi/` möppu](/namsefni).
+
+Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með því að nota „download“ virkni eða [opna vef útgáfu af dæmum þar sem hægt er að skoða þau beint í vafra](https://vefforritun.github.io/vef1-2024/daemi/).
+
+### Vikur
+
+- [Vika 1, 19.—25. ágúst 2024](vikur/vika-01.md)
+  - Kynning; inngangur; HTML; Netlify
+
+## Verkefni
+
+Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið gerð aðgengileg fyrr) og skal skila fyrir lok fimmtudags (seinasta lagi 23:59) vikunni eftir. Sýnilausn er gerð aðgengileg á föstudegi eftir skil.
+
+Öll skil fara fram á Canvas.
+
+- [Verkefni 1 (HTML #1)](https://github.com/vefforritun/vef1-2024-v1), setja upp ritil, gera síðu aðgengilega á vefnum gegnum Netlify.
+  - Sett fyrir 19. ágúst, skilist 29. ágúst.
+  - Engin sýnilausn.
+
+### Hópverkefni
+
+- [Hópverkefni 1](https://github.com/vefforritun/vef1-2024-h1).
+  - Sett fyrir í lok september, skilist í lok október.
+- [Hópverkefni 2](https://github.com/vefforritun/vef1-2024-h2).
+  - Sett fyrir í lok október, skilist í lok nóvember.
+
+## Dæmatímar
+
+Dæmatímar eru í vikum 2–14.
+
+Sjá á Uglu og Canvas síðu námskeiðs.
+
+## Lokapróf
+
+Nánar um lokapróf seinna.
+
+Hægt er að nálgast eldri lokapróf á Uglu.
