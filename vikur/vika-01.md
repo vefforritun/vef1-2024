@@ -29,20 +29,22 @@ Upptökur koma inn eftir fyrirlestur 19. ágúst.
 - GUI og CLI
 - Textaritlar
 - Stafasett
+- Unicode
 - UTF-8
 - Internetið
 - Vefurinn
 - Vefþjónn
+- HTTP
 - URL
 - Vefsíða
 - Vafri
 - Framendi
 - HyperText
-- Markup Language
+- Markup mál
 - Markdown
-- HTML
 - W3C
 - Vefstaðlar
+- HTML
 - Netlify
 
 Sjá öll lykilhugtök og skilgreiningar í [lykilhugtok.md](../lykilhugtok.md).

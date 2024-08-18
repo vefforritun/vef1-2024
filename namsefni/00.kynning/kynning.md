@@ -27,11 +27,11 @@ title: Kynning
 
 ---
 
-## Námsefni
+## GitHub
 
 - Allt efni sett inn á GitHub (vísun líka frá Canvas)
   - https://github.com/vefforritun/vef1-2024
-- námsefni..
+- Námsefni, vikublöð og verkefni
 
 ---
 
@@ -54,7 +54,6 @@ title: Kynning
 - Notum rásir til að ræða málin
   - `#vef1-2024-fyrirlestrar` fyrir fyrirspurnir varðandi fyrirlestra og efni
   - `#vef1-2024-verkefni` fyrir fyrirspurnir og aðstoð við verkefni
-- Í hópverkefnum er gott að búa til prívat slack rás til að eiga í samskiptum
 
 ---
 
@@ -82,11 +81,11 @@ title: Kynning
 - Námsefni lagt fyrir viku áður
 - Fyrirlestrar fara í dæmi, umræður, spurningar og allskonar!
 
----
+***
 
 - Stefni á að taka alla upp
   - Þó lofa ég engu ef tæknin klikkar
-  - Sett [inn á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozzcbrQgXQpbTVA1OXjUEMO1) seinna um daginn, eða daginn eftir
+  - Sett [inn á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozyMG9VdNdl8qQHmfWK7zW9Y) seinna um daginn, eða daginn eftir
 
 ---
 
@@ -104,13 +103,13 @@ title: Kynning
 - Geta verið tímafrek en besta leiðin til að læra er að gera
 - Klárað er betra en fullkomið
 
----
+***
 
 - 12 verkefni í heildina
 - 10 smærri
 - Tvö hópverkefni
 
----
+***
 
 ## Smærri verkefni
 
@@ -120,7 +119,7 @@ title: Kynning
 - Megið ræða saman um verkefni en **skrifið ykkar eigin lausn**
 - Merkið ef þið fáið aðra utanaðkomandi aðstoð!
 
----
+***
 
 ## Hópverkefni
 
@@ -129,24 +128,23 @@ title: Kynning
   - Hugbúnaðargerð er sjaldnast einstaklingsvinna
   - Notum git og GitHub
 
----
+***
 
 - Sett fyrir
   - Fyrra í lok september – skalanlegur vefur
   - Seinna í lok október – skalanlegur vefur með JavaScript virkni
 - Skilast ca. mánuði seinna
 
----
+***
 
 ## Verkefnaskil
 
 - Verkefnum og einkunnum fyrir þau er skilað í gegnum Canvas
 - Lesið leiðbeiningar **fyrir hvert verkefni** og skilið öllu því sem beðið er um
 
----
+***
 
-- Ef þið hafið athugasemdir við yfirferð og einkunn, byrjið á að senda þær á Canvas
-- Farið yfir með dæmatímakennara
+- Ef þið hafið athugasemdir við yfirferð og einkunn, byrjið á að senda þær **beint á dæmatímakennara**
 - Ef þið finnið ekki lausn saman, heyrið í mér
 
 ---
@@ -159,8 +157,10 @@ title: Kynning
 
 ## Lokapróf
 
-- Kemur í ljós seinna hvernig fer fram
-- Heimapróf á Inspera seinustu ár
+- Heimapróf á Inspera
+- Engin hjálpargögn leyfð
+- Gömul próf á Uglu
+- Nánar seinna
 
 ---
 
@@ -175,7 +175,7 @@ title: Kynning
 ## Mæting
 
 - Engin skyldumæting
-- Hægt að taka áfangann í fjarnámi (án þess að skrá það þó þannig)
+- Tæknilega hægt að taka áfangann í fjarnámi (án þess að skrá það þó þannig)
 
 ---
 
@@ -186,7 +186,7 @@ title: Kynning
   - Staðlar, venjur, og það sem þarf til að útbúa góða vefi
 - Hönnun, útlit, og að vinna með hönnunarskjöl
 
----
+***
 
 - Forritun í túlkaða forritunarmálinu JavaScript
   - Tenging þess við vafra og tól tengdum því
@@ -201,7 +201,7 @@ Nemendur sem ljúka þessu námskeiði geta:
 - Þróað aðgengilega og merkingarfræðilega góða vefi með HTML
 - Stýrt útliti vefs með CSS og kunnað skil á nýjustu straumum og stefnum í vefhönnun
 
----
+***
 
 - Skilið og skrifað forrit sem nýta JavaScript til að auðga vefi
 - Skilið mun á framenda og bakenda og hvernig samskiptum þar á milli er háttað með HTTP
@@ -214,7 +214,7 @@ Nemendur sem ljúka þessu námskeiði geta:
   - Vefurinn og vefforritun, HTML
   - Element, merkingarfræði, aðgengi og SEO
 
----
+***
 
 - Fjórar vikur CSS
   - Syntax, specificity og cascade, box model
@@ -222,13 +222,13 @@ Nemendur sem ljúka þessu námskeiði geta:
   - Skalanlegir vefir og myndir, DevTools, grid
   - Kvikun, hönnun, CSS í stærri verkefnum
 
----
+***
 
 - Ein–tvær vikur CLI og git
   - NPM og tól til auðvelda okkur vinnu
   - Git og GitHub
 
----
+***
 
 - Fimm vikur JavaScript
   - Breytur, gagnatög, stýriskipanir
@@ -246,7 +246,7 @@ Nemendur sem ljúka þessu námskeiði geta:
   - Mæli með að velja annað hvort fyrirlestraupptökur eða kennslubækur og leita síðan í hitt ef eitthvað óljóst
 - Eyðum tímanum okkar saman frekar í að fara yfir dæmi, umræður og aðstoð
 
----
+***
 
 ## Kennslubækur
 
@@ -270,17 +270,16 @@ Samanstanda af:
 
 ## Lykilhugtök
 
-- Tilraun í ár!
-- Það sem þið ættuð að þekkja nokkuð vel eftir hverja viku
-- Reyni að fara sérstaklega yfir og athuga að þið séuð að fylgja
+- Tiltekin fyrir hverja viku á vikublaði
+- Það sem þið ættuð að þekkja nokkuð vel eftir að hafa klárað viku
+- Samansafn af lykilhugtökum og skilgreiningum í sér skjali
 
 ---
 
 ## Kannanir
 
 - Stuttar, nafnlausar vikulegar kannanir
-- Athuga skilning á lykilhugtökum
-- Athuga hvernig gengur með tæki og tól
+- Athuga framgang og ef eitthvað þarf að fara betur yfir
 - Önnur atriði sem þið viljið koma á framfæri
 
 ---
@@ -298,9 +297,9 @@ Samanstanda af:
 
 - Ekkert að því að nýta vefinn þegar við erum föst
   - Eyðum smá tíma í að reyna sjálf (mælt í klukkutímum _ekki_ dögum)
-  - Leitum hjálpar á slack, í dæmatímum, eða með því að tala við kennara
+  - Leitum hjálpar á slack, í dæmatímum eða með því að tala við kennara
 
----
+***
 
 - Við erum öll að læra, líka ég
   - Ef það er eitthvað sem mætti betur fara, látið mig vita
