@@ -23,7 +23,7 @@ Sjá yfirferð í fyrirlestri 1 um hvernig uppbygging á námskeiðinu og námse
 | 13   | 11. nóvember  | Aðstoð, umræður; verkefnatími; upplýsingar um lokapróf                   |                           | Verkefni 10               |
 | 14   | 18. nóvember  | Samantekt og upprifjun; aðstoð; umræður                                  |                           | Hópverkefni 2             |
 
-Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md).
+Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md) og [sýnd yfirferð á námsefni hér á GitHub](https://youtu.be/apyHkQKQDqU).
 
 [Kennslualmanak háskólaárið 2024–2025](https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=51730%3Den).
 
