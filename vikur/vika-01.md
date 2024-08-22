@@ -24,7 +24,7 @@
 
 ### Dæmi
 
-- [Minnsta HTML skjal](../daemi/minnsta.html).
+- [Minnsta HTML skjal](../namsefni/02.html/daemi/minnsta.html).
 
 ### Lykilhugtök
 

@@ -28,12 +28,13 @@ Koma eftir fyrirlestur 26. ágúst.
 ### Lykilhugtök
 
 - HTML element
-  - tags, attribute
+- HTML tag
+- HTML attribute
 - Tré (gagnaskipan)
 - Merkingarfræði
 - HTML staðallinn (spec)
-- Vísun í efni
-  - með afstæðum og nákvæmum slóðum
+- Vísun í efni með afstæðum (relative) slóðum
+- Vísun í efni með nákvæmum (absolute) slóðum
 - HTML töflur
 - Listar
 - Form
@@ -44,6 +45,7 @@ Koma eftir fyrirlestur 26. ágúst.
 - aXe tólið
 - Skjálesarar
 - Leitarvélabestun, SEO
+
 Sjá öll lykilhugtök og skilgreiningar í [lykilhugtok.md](../lykilhugtok.md).
 
 ## Verkefni vikunnar
