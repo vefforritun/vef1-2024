@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/11.css-box-model)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/11.css-box-model)
 
 * [Dæmi um  margin](daemi/01.margin.html)
 * [Dæmi um collapsing margin](daemi/02.collapsing.html)

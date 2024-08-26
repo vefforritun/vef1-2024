@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2021/vikur/02/)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/03.html-element)
 
 * [Lýsigögn](daemi/meta.html)
 * [Flæði element](daemi/flow.html)

@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/04.html-toflur-listar-form)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/04.html-toflur-listar-form)
 
 ### Töflur, listar, og form
 

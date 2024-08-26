@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/13.css-visual-formatting)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/13.css-visual-formatting)
 
 * [Dæmi um  margin](daemi/01.margin.html)
 * [Dæmi um collapsing margin](daemi/02.collapsing.html)

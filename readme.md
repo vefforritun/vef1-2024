@@ -41,6 +41,8 @@ Hvert vikublað samanstendur af:
 
 [Allt námsefni og lesefni er undir `namsefni/`](/namsefni).
 
+Hægt er að [skoða dæmi á sér vef](https://vefforritun.github.io/vef1-2024/).
+
 ## Lykilhugtök
 
 [Samansafn af öllum lykilhugtökum, lýsingu á þeim og tengingar við vikur](./lykilhugtok.md).

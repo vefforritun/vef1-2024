@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/06.adgengi)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/06.adgengi)
 
 * [Aðgengi](daemi/4.adgengi-seo/a11y.html)
 

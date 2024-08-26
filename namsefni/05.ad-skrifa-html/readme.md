@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/05.ad-skrifa-html)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/05.ad-skrifa-html)
 
 * [Gilt XHTML](daemi/valid.xhtml)
 * [Ógilt XHTML](daemi/invalid.xhtml)
