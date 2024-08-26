@@ -190,3 +190,76 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - [Vefforritun: Leitarvélabestun](https://bok.vefforritun.is/08.seo)
   - [Wikipedia: Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization)
 
+## Vika 3
+
+[Vikublað 3](vikur/vika-03.md)
+
+- CSS
+  - _Cascading Style Sheets_
+  - Notað til að lýsa framsetningu og útliti á skjali skrifuðu í markup máli, t.d. HTML, XHTML, XML og SVG.
+  - [Vefforritun: CSS](https://bok.vefforritun.is/09.css)
+  - [Wikipedia: Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- Tenging CSS og HTML
+  - Til eru nokkrar leiðir til að tengja HTML og CSS saman: vísa í CSS skrá, nota `style` element, eða nota `style` attribute.
+  - [Vefforritun: CSS, Tenging CSS og HTML](https://bok.vefforritun.is/09.css#9.2)
+  - [Wikipedia: Cascading Style Sheets, Use](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Use)
+- Selectors
+  - Selector er strengur sem lýsir því hvaða element við viljum að taki við yfirlýsingum
+  - [Vefforritun: CSS málfræði, Selector](https://bok.vefforritun.is/10.css-malfraedi#10.1.1)
+  - [Wikipedia: Cascading Style Sheets, Selectors](https://en.wikipedia.org/wiki/CSS#Selector)
+- Yfirlýsingar
+  - Nafn-gildis par (e. name-value pair) þar sem nafn er eigindi (e. property) og gildi er gildið (e. value) sem við gefum því.
+  - [Vefforritun: CSS málfræði, Selector](https://bok.vefforritun.is/10.css-malfraedi#10.1.1)
+  - [Wikipedia: Cascading Style Sheets, Declaration](https://en.wikipedia.org/wiki/CSS#Declaration)
+- Eigindi
+  - _Property_
+  - Eigindi er heiti þess sem við viljum breyta eða hafa áhrif á í CSS, t.d. `color` eða `width`.
+  - [Vefforritun: CSS málfræði, Skilgreiningar](https://bok.vefforritun.is/10.css-malfraedi#10.1.5)
+  - [Wikipedia: Cascading Style Sheets, Property](https://en.wikipedia.org/wiki/CSS#Properties)
+- Gildi
+  - _Value_
+  - Gildi sem yfirleitt á að eiga við eigindi í CSS, t.d.`#000000` eða `100px`.
+  - [Vefforritun: CSS málfræði, Gildi í CSS](https://bok.vefforritun.is/10.css-malfraedi#10.2)
+  - [Wikipedia: Cascading Style Sheets, Values](https://en.wikipedia.org/wiki/CSS#Values)
+- Hlufallslegar einingar
+  - _Relative values_
+  - Skiptast í tvo hópa, letur-hlutfallslegar einingar (e. font-relative lengths) og skjá-prósentu einingar (e. viewport percentage lengths)
+  - [Vefforritun: CSS málfræði, Hlutfallslegar einingar](https://bok.vefforritun.is/10.css-malfraedi#10.4.2)
+- Box model
+  - Lýsir því hvernig rétthyrnd box fyrir element eru mynduð.
+  - [Vefforritun: Box model](https://bok.vefforritun.is/11.css-box-model)
+  - [Wikipedia: Box model](https://en.wikipedia.org/wiki/Box_model)
+- Sértækni
+  - _Specificity_
+  - Fyrir allar CSS reglur og fyrir hvern selector er reiknað sértækni gildi sem ákvaðar hvaða reglur skuli nota.
+  - [Vefforritun: Sértækni & flóðið, Sértækni](https://bok.vefforritun.is/12.css-specifity-cascade#12.1)
+  - [Wikipedia: CSS, Specificity](https://en.wikipedia.org/wiki/CSS#Specificity)
+- Flóðið
+  - _Cascade_
+  - Leiðin til að ákvarða hvaða skilgreiningar eigi að nota fyrir hvert element.
+  - [Vefforritun: Sértækni & flóðið, Flóðið](https://bok.vefforritun.is/12.css-specifity-cascade#12.2)
+  - [Wikipedia: CSS, Cascade](https://en.wikipedia.org/wiki/CSS#Cascading)
+- CSS validation
+  - W3C heldur úti validation þjónustu sem bæði bendir okkur á beinar villur en einnig hugsanlega vandræði sem CSS gæti skapað.
+  - [Vefforritun: Að skrifa CSS, CSS validation](https://bok.vefforritun.is/13.css-best-practices#13.1)
+  - [Wikipedia: W3C Markup Validation Service, CSS validation](https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service#CSS_validation)
+- Eðlilegt flæði
+  - _Normal flow_
+  - Ef við höfum ekki skilgreint hvernig element á að haga sér er það í eðlilegu flæði og er sjálfgefið annað hvort block eða inline.
+  - [Vefforritun: Visual Formatting módel, eðlilegt flæði](https://bok.vefforritun.is/14.visual-formatting#14.1)
+  - [Wikipedia: CSS, Positioning](https://en.wikipedia.org/wiki/CSS#Positioning)
+- `position` eigindið
+  - Við getum stýrt staðsetningu á elementum með position eigindinu.
+  - [Vefforritun: Visual Formatting módel, staðsetning](https://bok.vefforritun.is/14.visual-formatting#14.3)
+  - [Wikipedia: CSS, Positioning](https://en.wikipedia.org/wiki/CSS#Positioning)
+- Leturgerðir
+  - _Fonts_
+  - Leturgerð segir til um hvaða hönnun á letri við notum til að birta texta.
+  - [Vefforritun: Letur & litir, letur](https://bok.vefforritun.is/15.css-letur-litir#15.1)
+  - [Wikipedia: Font family (HTML)](https://en.wikipedia.org/wiki/Font_family_(HTML))
+- Texta og leturbreytingar
+  - Við getum breytt útiliti texta og leturs með CSS.
+  - [Vefforritun: Letur & litir, texti](https://bok.vefforritun.is/15.css-letur-litir#15.1.2)
+- `background` eigindið
+  - `background` eigindið leyfir okkur að stýra bakgrunn element og setja myndir eða liti.
+  - [Vefforritun: Letur & litir, bakgrunnur og litir](https://bok.vefforritun.is/15.css-letur-litir#15.2)
