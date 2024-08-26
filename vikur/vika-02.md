@@ -6,6 +6,8 @@
 - [Fyrirlestur 2.2: Validator, prettier, aðgengi og aXe (39:20)](https://youtu.be/089fQ4DXeDo)
 - [Fyrirlestur 2.3: Verkefni 2 (41:18)](https://youtu.be/bJCo70yttxs)
 
+[Dæmi úr fyrirlestri](https://github.com/vefforritun/vef1-2024-fyrirlestra-daemi/tree/main/f02).
+
 ## Námsefni
 
 ### Lesefni

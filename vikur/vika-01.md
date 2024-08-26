@@ -6,6 +6,8 @@
 - [Fyrirlestur 1.2: Yfirferð á námsefni á GitHub](https://youtu.be/apyHkQKQDqU)
 - [Fyrirlestur 1.3: Uppsetning á Visual Studio Code og Netlify](https://youtu.be/Sp3FubU9WGs)
 
+[Dæmi úr fyrirlestri](https://github.com/vefforritun/vef1-2024-fyrirlestra-daemi/tree/main/f01).
+
 ## Námsefni
 
 ### Lesefni
