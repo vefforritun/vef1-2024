@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma eftir fyrirlestur 2. september.
+- [Fyrirlestur 3.1: CSS námsefni; meira um verkefni 2 (21:20)](https://youtu.be/FNA9H5J8gUc)
+- [Fyrirlestur 3.2: Verkefni 3 (24:37)](https://youtu.be/kJ8VAdIbttc)
+
+[Dæmi úr fyrirlestri](https://github.com/vefforritun/vef1-2024-fyrirlestra-daemi/tree/main/f03).
 
 ## Námsefni
 
