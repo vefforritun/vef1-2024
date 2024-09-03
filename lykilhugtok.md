@@ -263,3 +263,51 @@ Samansafn af öllum lykilhugtökum í áfanganum.
 - `background` eigindið
   - `background` eigindið leyfir okkur að stýra bakgrunn element og setja myndir eða liti.
   - [Vefforritun: Letur & litir, bakgrunnur og litir](https://bok.vefforritun.is/15.css-letur-litir#15.2)
+
+## Vika 4
+
+[Vikublað 4](vikur/vika-04.md)
+
+- Progressive enhancement
+  - Það að einbeita okkur að upplifun sem krefst minnstu mögulegrar tækni og bæta hana í lögum
+  - [Vefforritun: CSS stuðningur, Progressive enhancement](https://bok.vefforritun.is/16.css-studningur.html)
+  - [Wikipedia: Progressive enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement)
+- Fallback gildi
+  - Gildi sem við eru viss um að allir vafrar styðji áður en við skilgreinum gildi sem nýtir nýrri tækni sem ekki er að fullu studd.
+  - [Vefforritun: CSS stuðningur, Fallback gildi](https://bok.vefforritun.is/16.css-studningur.html#16.2)
+- Feature queries
+  - Leyfa okkur að athuga hvort að eigindi og gildi séu studd, þá getum við innan reglunnar skilgreint CSS sem er notað.
+  - [Vefforritun: CSS stuðningur, Feature queries](https://bok.vefforritun.is/16.css-studningur.html#16.2.1)
+  - [MDN: Using feature queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_conditional_rules/Using_feature_queries)
+- CSS custom properties
+  - Leyfa okkur að skilgreina breytur, t.d. fyrir lit, ákveðna lengd eða eitthvað annað sem er mikið notað
+  - [Vefforritun: CSS stuðningur, CSS custom properties](https://bok.vefforritun.is/16.css-studningur.html#16.2.2)
+  - [MDN: Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- `object-fit`
+  - CSS virkni til að skilgreina hvernig innfellt efni á að birtast.
+  - [Vefforritun: CSS stuðningur, object-fit](https://bok.vefforritun.is/16.css-studningur.html#16.2.6)
+  - [MDN: object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+- Flexbox
+  - Leið til að útbúa flókin útlit á tiltölulega einfaldan hátt
+  - [Vefforritun: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)
+  - [Wikipedia: Flexbox](https://en.wikipedia.org/wiki/Flexbox)
+- flex container
+  - Element með `display: flex` eða `display: inline-flex` sem inniheldur flex items
+  - [Vefforritun: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)
+  - [Wikipedia: Flexbox](https://en.wikipedia.org/wiki/Flexbox)
+- flex items
+  - Element sem eru innan flex container (ströng börn) og stýrast af flexbox
+  - [Vefforritun: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)
+  - [Wikipedia: Flexbox](https://en.wikipedia.org/wiki/Flexbox)
+- Ásar: aðal (main axis) og kross (cross axis)
+  - Í flexbox eru skilgreindir tveir ásar, aðalás (e. main axis) og krossás (e. cross axis) sem eru hornréttir hvorn annan.
+  - [Vefforritun: Flexbox, Ásar](https://bok.vefforritun.is/17.css-flexbox.html#17.1)
+  - [Wikipedia: Flexbox](https://en.wikipedia.org/wiki/Flexbox)
+- Röðun á ás með flexbox
+  - Með flexbox eru margar leiðir til að skilgreina hvernig flex items raðast á ása innan flex container.
+  - [Vefforritun: Flexbox, Röðun á ása](https://bok.vefforritun.is/17.css-flexbox.html#17.2)
+  - [Wikipedia: Flexbox](https://en.wikipedia.org/wiki/Flexbox)
+- Logical properties
+  - Leið til að skilgreina eigindi og gildi sem eru óháð áttum (t.d. `left` og `right`) og nota lógísk heiti (t.d. `inline-start` og `inline-end`).
+  - [Vefforritun: Flexbox, Ásar](https://bok.vefforritun.is/17.css-flexbox.html#17.1)
+  - [MDN: CSS logical properties and values](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties)
