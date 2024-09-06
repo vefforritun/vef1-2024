@@ -81,6 +81,7 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Engin sýnilausn.
 - [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2024-v2), HTML element, aðgengi og SEO.
   - Sett fyrir 26. ágúst, skilist 5. september.
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v2-synilausn)
 
 ### Hópverkefni
 
