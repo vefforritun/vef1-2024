@@ -69,6 +69,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
 - [Vika 3, 2.—8. september 2024](vikur/vika-03.md)
   - CSS; box model; specificity og cascade; visual formatting; Letur & litir
+- [Vika 4, 9.—15. september 2024](vikur/vika-04.md)
+  - Flexbox; CSS virkni & stuðningur
 
 ## Verkefni
 
@@ -82,6 +84,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2024-v2), HTML element, aðgengi og SEO.
   - Sett fyrir 26. ágúst, skilist 5. september.
   - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v2-synilausn)
+- [Verkefni 3 (CSS #1)](https://github.com/vefforritun/vef1-2024-v3), CSS grunnur.
+  - Sett fyrir 3. september, skilist 12. september
 
 ### Hópverkefni
 
