@@ -30,6 +30,12 @@ Koma eftir fyrirlestur 9. september.
 
 Dæmi eru undir viðeigandi námsefni í `daemi/` möppu. Sérstaklega skal skoða:
 
+- [CSS variables](../namsefni/13.css-studningur/daemi/01.variables.html)
+- [object-fit](../namsefni/13.css-studningur/daemi/05.object-fit.html)
+- [Staðsetning](../namsefni/14.css-flexbox/daemi/03.position.html)
+- [Flex](../namsefni/14.css-flexbox/daemi/06.flex.html)
+
+
 ### Lykilhugtök
 
 - Progressive enhancement
@@ -49,6 +55,6 @@ Dæmi eru undir viðeigandi námsefni í `daemi/` möppu. Sérstaklega skal sko�
 - [ ] Skoða flexbox dæmi og efni vel
   - [ ] [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
   - [ ] [CSS tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  - [ ] „Leikir“ sem útskýra hugtökin: [flexbox defense](http://www.flexboxdefense.com/), [flexbox froggy](https://flexboxfroggy.com/)
+  - [ ] [flexbox froggy](https://flexboxfroggy.com/)
 - [ ] Vinna í og skila [verkefni 3](https://github.com/vefforritun/vef1-2024-v3)
 - [ ] Byrja á [verkefni 4](https://github.com/vefforritun/vef1-2024-v4)

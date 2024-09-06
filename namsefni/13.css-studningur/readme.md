@@ -4,13 +4,14 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/15.css-studningur/)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/13.css-studningur/)
 
 * [CSS variables](daemi/01.variables.html)
 * [border-radius](daemi/02.border-radius.html)
 * [box-shadow](daemi/03.box-shadow.html)
-* [object-fit](daemi/04.object-fit.html)
-* [shapes](daemi/05.shapes.html)
+* [shapes](daemi/04.shapes.html)
+* [object-fit](daemi/05.object-fit.html)
+* [clip-path](daemi/06.clip-path.html)
 
 ## Ítarefni
 

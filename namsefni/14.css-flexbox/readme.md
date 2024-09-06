@@ -4,14 +4,14 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/16.css-flexbox/)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/14.css-flexbox/)
 
-* [`flex` og `inline-flex`](daemi/3.flexbox/01.inline-flex.html)
-* [Fullkomlega miðjað](daemi/3.flexbox/02.bullseye.html)
-* [Staðsetning](daemi/3.flexbox/03.position.html)
-* [Raðir](daemi/3.flexbox/04.row.html)
-* [Items](daemi/3.flexbox/05.items.html)
-* [Flex](daemi/3.flexbox/06.flex.html)
+* [`flex` og `inline-flex`](./daemi/01.inline-flex.html)
+* [Fullkomlega miðjað](./daemi/02.bullseye.html)
+* [Staðsetning](./daemi/03.position.html)
+* [Raðir](./daemi/04.row.html)
+* [Items](./daemi/05.items.html)
+* [Flex](./daemi/06.flex.html)
 
 ## Aukaefni
 
