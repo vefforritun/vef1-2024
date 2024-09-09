@@ -311,3 +311,97 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - Leið til að skilgreina eigindi og gildi sem eru óháð áttum (t.d. `left` og `right`) og nota lógísk heiti (t.d. `inline-start` og `inline-end`).
   - [Vefforritun: Flexbox, Ásar](https://bok.vefforritun.is/17.css-flexbox.html#17.1)
   - [MDN: CSS logical properties and values](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties)
+
+## Vika 5
+
+[Vikublað 5](vikur/vika-05.md)
+
+- Skalanleg vefhönnun
+  - _Responsive web design_
+  - Vefhönnun og vefforritun sem byggir á því að vefurinn sé skalanlegur og birtist ekki á sama hátt á öllum tækjum.
+  - [Vefforritun: Skalanleg vefhönnun](https://bok.vefforritun.is/18.skalanlegir)
+  - [Wikipedia: Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design)
+- Grid/grind í hönnun
+  - Grindur eru notuð í hönnun til að stýra láréttri staðsetningu.
+  - [Vefforritun: Skalanleg vefhönnun](https://bok.vefforritun.is/18.skalanlegir)
+  - [Wikpedia: Grid (graphic design)](https://en.wikipedia.org/wiki/Grid_(graphic_design))
+- Mobile first
+  - Aðferð við að hanna vefi sem byrjar á að hanna fyrir minnsta mögulegu skjástærð.
+  - [Vefforritun: Skalanleg vefhönnun](https://bok.vefforritun.is/18.skalanlegir)
+- Sveigjanleg grind
+  - _Fluid grid_
+  - Grind sem er skilgreind með hlutfallslegum stærðum og stýrist af stærð vafrans.
+  - [Vefforritun: Skalanleg vefhönnun, sveigjanleg grind](https://bok.vefforritun.is/18.skalanlegir#18.0.1)
+  - [Wikipedia: Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design)
+- Sveigjanlegar myndir og miðlar
+  - _Fluid images and media_
+  - Það að skilgreina myndir og miðla þannig að breidd noti hlutfallsleg gildi (t.d. `100%`), ekki föst (t.d. `200px`).
+  - [Vefforritun: Skalanleg vefhönnun, Sveigjanlegar myndir og miðlar](https://bok.vefforritun.is/18.skalanlegir#18.0.2)
+- Media query
+  - Leið til að skilgreina „brotpunkta“ (e. breakpoints) í hönnun þar sem við breytum á einhvern hátt hvernig layout á vef hagar sér.
+  - [Vefforritun: Skalanleg vefhönnun, Media queries](https://bok.vefforritun.is/18.skalanlegir#18.0.3)
+  - [Wikipedia: Media query](https://en.wikipedia.org/wiki/Media_query)
+- Device width
+  - Notum í `viewport` `<meta>` skilgreiningu til að láta viewport vera jafnt logical resolution (raun stærð skjás) ekki physical resolution (raun upplausn skjás): `<meta name="viewport" content="width=device-width, initial-scale=1">`.
+  - [Vefforritun: Skalanleg vefhönnun, Skalanlegir vefir og upplausn](https://bok.vefforritun.is/18.skalanlegir#18.0.4)
+  - [MDN: Viewport width and screen width](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag#viewport_width_and_screen_width)
+- Kvikun
+  - _Animation_
+  - Þegar við látum eitthvað hreyfast eftir ákveðnum reglum.
+  - [Vefforritun: Kvikun](https://bok.vefforritun.is/19.kvikun)
+  - [Wikipedia: Animation](https://en.wikipedia.org/wiki/Animation)
+- `transition`
+  - Með umskiptum (e. transition) látum við eitt gildi breytast í annað á skilgreindum tíma.
+  - [Vefforritun: Kvikun, Umskipti](https://bok.vefforritun.is/19.kvikun#19.1)
+  - [MDN: transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
+- Hröðun, línuleg og `ease`
+  - Hröðunarfall er skilgreint með rúmfræðilegri bezier kúrvu (e. cubic bezier curve) eða lykilorði (sem er tengt við ákveðna bezier kúrvu).
+  - [Vefforritun: Kvikun, Hröðun](https://bok.vefforritun.is/19.kvikun#19.1.1)
+  - [MDN: transition-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
+- `animation`
+  - Með animation eigindinu getum við útbúið flóknari hreyfingar án þess að nota JavaScript.
+  - [Vefforritun: Kvikun, Animation](https://bok.vefforritun.is/19.kvikun#19.2)
+  - [MDN: animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- `transform`
+  - Með transform eigindinu getum við gert breytingar á tvívíðu og þrívíðu rúmi hluta með því að nota `translate`, `rotate`, `skew` og `scale`.
+  - [Vefforritun: Kvikun, Transform](https://bok.vefforritun.is/19.kvikun#19.3)
+  - [MDN: transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+- Röðun og jöfnun
+  - _Alignment_
+  - Það að setja upp hluti skipulega með reglu.
+  - [Vefforritun: Hönnun, Röðun og jöfnun](https://bok.vefforritun.is/20.honnun#20.1)
+- Andstæður
+  - _Contrast_
+  - Andstæður myndast þegar hlutir eru ólíkir og ekki aðeins ólíkir heldur mjög ólíkir.
+  - [Vefforritun: Hönnun, Andstæður](https://bok.vefforritun.is/20.honnun#20.2)
+  - [Wikipedia: Contrast (vision)](https://en.wikipedia.org/wiki/Contrast_(vision))
+- Litir í hönnun
+  - Þegar við veljum viðeigandi liti með tilliti til hönnunar.
+  - [Vefforritun: Hönnun, Litir](https://bok.vefforritun.is/20.honnun#20.4)
+- Veftré
+  - Yfirlitsmynd yfir allar síður vefsins og hvernig þær tengjast innbyrðist.
+  - [Vefforritun: Hönnun, Veftré og wireframe](https://bok.vefforritun.is/20.honnun#20.5)
+- Wireframe
+  - Skissa eða einföld teikning sem sýnir hvernig vefsíða á að haga sér og hvar hlutir eiga að vera staðsettir, unnið áður en útlit er búið til.
+  - [Vefforritun: Hönnun, Veftré og wireframe](https://bok.vefforritun.is/20.honnun#20.5)
+  - [Wikipedia: Website wireframe](https://en.wikipedia.org/wiki/Website_wireframe)
+- CSS grid
+  - CSS grid er notað til að skilgreina skipulag eða útlit (e. layout) á síðu með því að skilgreina raðir (e. rows) og dálka (e. columns) sem efni er staðsett í.
+  - [Vefforritun: Grid](https://bok.vefforritun.is/21.grid)
+  - [MDN: CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- Dálkar og raðir í CSS grid
+  - Með CSS grid getum við skilgreint dálkar og raðir annaðhvort beint (e. explicit) eða óbeint (e. implicit).
+  - [Vefforritun: Grid](https://bok.vefforritun.is/21.grid)
+  - [MDN: CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- `fr`
+  - Sveigjanleg lengd, hlutfallsleg eining fyrir fraction af plássi, hagar sér svipað og þegar við setjum flex-grow í flexbox.
+  - [Vefforritun: Grid, Gildi í CSS grid](https://bok.vefforritun.is/21.grid#20.2)
+  - [MDN: fr](https://developer.mozilla.org/en-US/docs/Web/CSS/flex_value)
+- `minmax()`
+  - Fall sem velur gildi sem er jafnt eða stærra en min og minna eða jafnt max.
+  - [Vefforritun: Grid, Gildi í CSS grid](https://bok.vefforritun.is/21.grid#20.2)
+  - [MDN: minmax()](https://developer.mozilla.org/en-US/docs/Web/CSS/minmax)
+- `repeat()`
+  - Fall sem leyfir að skilgreina mörg track í einu ef þau fylgja endurteknu mynstri.
+  - [Vefforritun: Grid, Gildi í CSS grid](https://bok.vefforritun.is/21.grid#20.2)
+  - [MDN: repeat()](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)

@@ -6,22 +6,22 @@ Sjá yfirferð í fyrirlestri 1 um hvernig uppbygging á námskeiðinu og námse
 
 ## Kennsluáætlun
 
-| Vika | Mánudagur     | Viðfangsefni                                                             | Verkefni                  | Skil                      |
-|------|---------------|--------------------------------------------------------------------------|---------------------------|---------------------------|
-| 1    | 19. ágúst     | Kynning; inngangur; HTML; Netlify                                        | Verkefni 1                |                           |
-| 2    | 26. ágúst     | Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO             | Verkefni 2                | Verkefni 1                |
-| 3    | 2. september  | CSS; box model; specificity og cascade; visual formatting; Letur & litir | Verkefni 3                | Verkefni 2                |
-| 4    | 9. september  | Flexbox; CSS virkni & stuðningur                                         | Verkefni 4                | Verkefni 3                |
-| 5    | 16. september | Skalanlegir vefir; hönnun; grid; kvikun                                  | Verkefni 5                | Verkefni 4                |
-| 6    | 23. september | node.js & npm; Sass & Stylelint CSS í stærri verkefnum                   | Verkefni 6; Hópverkefni 1 | Verkefni 5                |
-| 7    | 30. september | Git & GitHub; JavaScript: gildi, týpur, virkjar                          |                           | Verkefni 6                |
-| 8    | 7. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                           | Verkefni 7                |                           |
-| 9    | 14. október   | Einingar; forritun á vef: DOM og atburðir                                | Verkefni 8                | Verkefni 7                |
-| 10   | 21. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                           | Verkefni 9; Hópverkefni 2 | Verkefni 8; Hópverkefni 1 |
-| 11   | 28. október   | Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun            | Verkefni 10               | Verkefni 9                |
-| 12   | 4. nóvember   | Hlutir; HTML5 og Web APIs; prófanir                                      |                           | Verkefni 10               |
-| 13   | 11. nóvember  | Aðstoð, umræður; verkefnatími; upplýsingar um lokapróf                   |                           |                           |
-| 14   | 18. nóvember  | Samantekt og upprifjun; aðstoð; umræður                                  |                           | Hópverkefni 2             |
+| Vika | Mánudagur     | Viðfangsefni                                                                        | Verkefni                  | Skil                      |
+|------|---------------|-------------------------------------------------------------------------------------|---------------------------|---------------------------|
+| 1    | 19. ágúst     | Kynning; inngangur; HTML; Netlify                                                   | Verkefni 1                |                           |
+| 2    | 26. ágúst     | Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO                        | Verkefni 2                | Verkefni 1                |
+| 3    | 2. september  | CSS; box model; specificity og cascade; visual formatting; Letur & litir            | Verkefni 3                | Verkefni 2                |
+| 4    | 9. september  | Flexbox; CSS virkni & stuðningur                                                    | Verkefni 4                | Verkefni 3                |
+| 5    | 16. september | Skalanlegir vefir; hönnun; grid; kvikun                                             | Verkefni 5                | Verkefni 4                |
+| 6    | 23. september | Gestafyrirlestur um hönnun; node.js & npm; Sass & Stylelint; CSS í stærri verkefnum | Verkefni 6; Hópverkefni 1 | Verkefni 5                |
+| 7    | 30. september | Git & GitHub; JavaScript: gildi, týpur, virkjar                                     |                           | Verkefni 6                |
+| 8    | 7. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                                      | Verkefni 7                |                           |
+| 9    | 14. október   | Einingar; forritun á vef: DOM og atburðir                                           | Verkefni 8                | Verkefni 7                |
+| 10   | 21. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                                      | Verkefni 9; Hópverkefni 2 | Verkefni 8; Hópverkefni 1 |
+| 11   | 28. október   | Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun                       | Verkefni 10               | Verkefni 9                |
+| 12   | 4. nóvember   | Hlutir; HTML5 og Web APIs; prófanir                                                 |                           | Verkefni 10               |
+| 13   | 11. nóvember  | Aðstoð, umræður; verkefnatími; upplýsingar um lokapróf                              |                           |                           |
+| 14   | 18. nóvember  | Samantekt og upprifjun; aðstoð; umræður                                             |                           | Hópverkefni 2             |
 
 Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md) og [sýnd yfirferð á námsefni hér á GitHub](https://youtu.be/apyHkQKQDqU).
 
@@ -71,6 +71,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - CSS; box model; specificity og cascade; visual formatting; Letur & litir
 - [Vika 4, 9.—15. september 2024](vikur/vika-04.md)
   - Flexbox; CSS virkni & stuðningur
+- [Vika 5, 16.—22. september 2024](vikur/vika-05.md)
+  - Skalanlegir vefir; hönnun; grid; kvikun
 
 ## Verkefni
 
@@ -86,6 +88,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v2-synilausn)
 - [Verkefni 3 (CSS #1)](https://github.com/vefforritun/vef1-2024-v3), CSS grunnur.
   - Sett fyrir 3. september, skilist 12. september
+- [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2024-v4), CSS flexbox.
+  - Sett fyrir 9. september, skilist 19. september
 
 ### Hópverkefni
 
