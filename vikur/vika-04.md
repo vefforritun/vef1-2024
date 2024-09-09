@@ -2,7 +2,8 @@
 
 ## Fyrirlestrar
 
-Koma eftir fyrirlestur 9. september.
+- [Fyrirlestur 4.1: CSS, Selectors, Flexbox og allskonar (43:56)](https://youtu.be/phCb3aUVSuI)
+- [Fyrirlestur 4.2: Meira um verkefni 2 (42:01)](https://youtu.be/zlNg9ZTq1wI)
 
 [Dæmi úr fyrirlestri](https://github.com/vefforritun/vef1-2024-fyrirlestra-daemi/tree/main/f04).
 
