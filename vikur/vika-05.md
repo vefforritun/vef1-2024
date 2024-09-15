@@ -21,6 +21,13 @@ Koma eftir fyrirlestur 16. september.
 - [Hönnun](../namsefni/17.honnun/)
 - [Grid](../namsefni/18.grid/)
 
+### Dæmi
+
+Dæmi eru undir viðeigandi námsefni í `daemi/` möppu. Sérstaklega skal skoða:
+
+- [responsive flex](../namsefni/15.responsive/daemi/09.flex-rwd.html)
+- [responsive css grid](../namsefni/18.grid/daemi/04.grid-rwd.html)
+
 ### Lykilhugtök
 
 - Skalanleg vefhönnun (e. responsive web design)
@@ -48,7 +55,7 @@ Koma eftir fyrirlestur 16. september.
 
 ## Verkefni vikunnar
 
-- [ ] Bera saman „[flexbox margin grid](../namsefni/15.responsive/daemi/09.flex-rwd.html)“ og „[css grid](../namsefni/19.grid/daemi/04.grid-rwd.html)“ dæmi til að skoða muninn á hvernig við getum útfært grid
-- [ ] Skrá sig á [Figma](https://www.figma.com/) og [skoða hönnunarkerfi Stafræns Ísland](https://www.figma.com/@islandis)
-- [ ] Vinna í og skila [verkefni 4](https://github.com/vefforritun/vef1-2024-v4)
-- [ ] Byrja á [verkefni 5](https://github.com/vefforritun/vef1-2024-v5)
+- [ ] Skrá sig á [Figma](https://www.figma.com/) og [skoða hönnunarkerfi Stafræns Ísland](https://www.figma.com/@islandis).
+- [ ] Vinna í og skila [verkefni 4](https://github.com/vefforritun/vef1-2024-v4).
+- [ ] Byrja á [verkefni 5](https://github.com/vefforritun/vef1-2024-v5).
+- [ ] Skoða forsendur [hópverkefnis 1](https://github.com/vefforritun/vef1-2024-h1) og huga að hóp.

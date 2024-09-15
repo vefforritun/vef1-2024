@@ -36,7 +36,6 @@ Dæmi eru undir viðeigandi námsefni í `daemi/` möppu. Sérstaklega skal sko�
 - [Staðsetning](../namsefni/14.css-flexbox/daemi/03.position.html)
 - [Flex](../namsefni/14.css-flexbox/daemi/06.flex.html)
 
-
 ### Lykilhugtök
 
 - Progressive enhancement
