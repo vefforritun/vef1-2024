@@ -73,6 +73,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Flexbox; CSS virkni & stuðningur
 - [Vika 5, 16.—22. september 2024](vikur/vika-05.md)
   - Skalanlegir vefir; hönnun; grid; kvikun
+- [Vika 6, 23.—29. september 2024](vikur/vika-06.md)
+  - Gestafyrirlestur um hönnun; node.js & npm; Sass & Stylelint; CSS í stærri verkefnum
 
 ## Verkefni
 
@@ -90,6 +92,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 3. september, skilist 12. september
 - [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2024-v4), CSS flexbox.
   - Sett fyrir 9. september, skilist 19. september
+- [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2024-v5), CSS grid.
+  - Sett fyrir 16. september, skilist 26. september
 
 ### Hópverkefni
 

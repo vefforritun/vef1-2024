@@ -405,3 +405,53 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - Fall sem leyfir að skilgreina mörg track í einu ef þau fylgja endurteknu mynstri.
   - [Vefforritun: Grid, Gildi í CSS grid](https://bok.vefforritun.is/21.grid#20.2)
   - [MDN: repeat()](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
+
+## Vika 6
+
+[Vikublað 6](vikur/vika-06.md)
+
+- CSS viðmiðunarreglur
+  - _CSS guidelines_
+  - Í stórum verkefnum þar sem við erum að vinna ein eða í teymi er mikilvægt að eyða tíma í það að búa til viðmiðunarreglur um það hvernig við skrifum CSS
+  - [Vefforritun: CSS í stærri verkefnum, CSS viðmiðunarreglur](https://bok.vefforritun.is/22.css-verkefni#22.2)
+- BEM
+  - _Block Element Modifier_
+  - Tiltölulega einföld aðferð þar sem hún einblínir á það hvernig við skrifum selectora. Við notum aðeins class selector, enga type eða id selectors.
+  - [Vefforritun: CSS í stærri verkefnum, BEM](https://bok.vefforritun.is/22.css-verkefni#22.3)
+- Sass
+  - Forvinnsla fyrir CSS skrár sem bætir við auka möguleikum til að skrifa CSS.
+  - [Vefforritun: CSS tæki & tól, Sass](https://bok.vefforritun.is/23.css-taeki-tol#23.1)
+  - [Wikipedia: Sass (style sheet language)](https://en.wikipedia.org/wiki/Sass_(style_sheet_language))
+- Sass Breytur
+  - Breytur í Sass leyfa okkur að geyma ýmis gildi, eru ólíkar CSS Custom properties og haga sér öðruvísi.
+  - [Vefforritun: CSS tæki & tól, Sass](https://bok.vefforritun.is/23.css-taeki-tol#23.1)
+  - [Wikipedia: Sass (style sheet language), Variables](https://en.wikipedia.org/wiki/Sass_(style_sheet_language)#Variables)
+- Sass Hreiðrun
+  - _Nesting_
+  - Leið til að hreiðra CSS reglur, setja reglur inn í reglur. Í dag er kominn stuðningur fyrir hreiðrun í CSS sem hagar sér þó öðruvísi.
+  - [Vefforritun: CSS tæki & tól, Sass](https://bok.vefforritun.is/23.css-taeki-tol#23.1)
+  - [Wikipedia: Sass (style sheet language), Nesting](https://en.wikipedia.org/wiki/Sass_(style_sheet_language)#Nesting)
+- Node.js
+  - Verkvangur (platform) sem keyrir JavaScript kóða utan vafra.
+  - [Vefforritun: NPM og almenn tæki og tól](https://bok.vefforritun.is/24.npm-taeki-tol)
+  - [Wikipedia: Node.js](https://en.wikipedia.org/wiki/Node.js)
+- NPM
+  - Pakkastjóri (package manager) fyrir JavaScript en leyfir okkur líka að setja upp og nota allskonar tól sem byggð eru með JavaScript.
+  - [Vefforritun: NPM og almenn tæki og tól, NPM](https://bok.vefforritun.is/24.npm-taeki-tol#24.1)
+  - [Wikipedia: npm (software)](https://en.wikipedia.org/wiki/Npm)
+- package.json
+  - JSON skrá sem geymir lýsigögn um verkefni og tól sem það notar.
+  - [Vefforritun: NPM og almenn tæki og tól, Tól í verkefnum](https://bok.vefforritun.is/24.npm-taeki-tol#24.3)
+  - [npm docs: package.json](https://docs.npmjs.com/cli/v10/configuring-npm/package-json)
+- `browsersync` pakki
+  - Leyfir okkur að keyra lítinn vefþjón á okkar eigin vél og sjálfkrafa endurhlaða síðu þegar við gerum breytingar.
+  - [Vefforritun: NPM og almenn tæki og tól, Almenn tól](https://bok.vefforritun.is/24.npm-taeki-tol#24.2)
+  - [browser-sync: Time-saving synchronised browser testing.](https://browsersync.io/)
+- `sass` pakki
+  - sass er þýðandi fyrir Sass skrifaður fyrir node.js sem við getum sótt með npm.
+  - [Vefforritun: NPM og almenn tæki og tól, sass](https://bok.vefforritun.is/24.npm-taeki-tol#24.5)
+  - [sass](https://github.com/sass/dart-sass)
+- `stylelint` pakki
+  - linter fyrir CSS og fleiri mál, t.d. Sass.
+  - [Vefforritun: NPM og almenn tæki og tól, st](https://bok.vefforritun.is/24.npm-taeki-tol#24.5)
+  - [stylelint](https://github.com/stylelint/stylelint)
