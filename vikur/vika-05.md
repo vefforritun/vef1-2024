@@ -2,7 +2,11 @@
 
 ## Fyrirlestrar
 
-Koma eftir fyrirlestur 16. september.
+- [Fyrirlestur 5.1: Yfirferð á sýnilausn á verkefni 3 (43:57)](https://youtu.be/32ULFAcpNCs)
+- [Fyrirlestur 5.2: Dæmi úr viku 4 (30:02)](https://youtu.be/9QY5KbrOKkM)
+- [Fyrirlestur 5.4: Verkefni 4 (36:08)](https://youtu.be/COho6QhWiAg)
+
+[Dæmi úr fyrirlestri](https://github.com/vefforritun/vef1-2024-fyrirlestra-daemi/tree/main/f05).
 
 ## Námsefni
 
