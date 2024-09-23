@@ -5,6 +5,8 @@
 - [Fyrirlestur 6.1: Verkefni 5 út frá sýnilausn á v4 (50:41)](https://youtu.be/eO6bcTZUgPQ)
 - [Fyrirlestur 6.2: Hópverkefni 1 (9:22)](https://youtu.be/1FmlYvtVQks)
 
+[Dæmi úr fyrirlestri](https://github.com/vefforritun/vef1-2024-fyrirlestra-daemi/tree/main/f06).
+
 ## Námsefni
 
 ### Lesefni
