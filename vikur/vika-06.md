@@ -2,7 +2,8 @@
 
 ## Fyrirlestrar
 
-Koma eftir fyrirlestur 23. september.
+- [Fyrirlestur 6.1: Verkefni 5 út frá sýnilausn á v4 (50:41)](https://youtu.be/eO6bcTZUgPQ)
+- [Fyrirlestur 6.2: Hópverkefni 1 (9:22)](https://youtu.be/1FmlYvtVQks)
 
 ## Námsefni
 

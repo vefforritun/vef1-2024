@@ -94,6 +94,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 9. september, skilist 19. september
 - [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2024-v5), CSS grid.
   - Sett fyrir 16. september, skilist 26. september
+- [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2024-v6), CSS tæki og tól.
+  - Sett fyrir 23. september, skilist 3. október
 
 ### Hópverkefni
 
