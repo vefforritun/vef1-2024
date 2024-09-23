@@ -455,3 +455,51 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - linter fyrir CSS og fleiri mál, t.d. Sass.
   - [Vefforritun: NPM og almenn tæki og tól, st](https://bok.vefforritun.is/24.npm-taeki-tol#24.5)
   - [stylelint](https://github.com/stylelint/stylelint)
+
+## Vika 7
+
+[Vikublað 7](vikur/vika-07.md)
+
+- Útgáfustjórnun
+  - _Version control_
+  - Kerfi sem geymur útgáfur af skrám sem við vinnum með, leyfir okkur t.d. að treysta því að vinna okkar sé örygg, fara fram og til baka í tíma og gera tilraunir án þess að tapa gögnum.
+  - [Wikipedia: Version Contro](https://en.wikipedia.org/wiki/Version_control)
+- Git
+  - Dreift útgáfustjórnunarkerfi með þau markmið að vera hratt, einfalt og leyfa ólínulega þróun (auðvelt að útbúa „branch“).
+  - [Wikipedia: Git](https://en.wikipedia.org/wiki/Git)
+- repo
+  - _Repository_
+  - Staður þar sem við geymum gögn og lýsigögn fyrir útgáfustjórnunarkerfi, t.d. Git.
+  - [Wikipedia: Repository](https://en.wikipedia.org/wiki/Repository_(version_control))
+- stöður í Git
+  - Git sér skrár í þrem stöðum: _committed_, _modified_ og _staged_.
+- `commit`
+  - Git aðgerð sem færir allar skrár sem eru í _staged_ stöðu í _committed_ stöðu.
+- remotes
+  - _Remote repositories_
+  - Repo sem eru staðsett á öðrum stað en okkar eigin vél, t.d. á GitHub.
+- `push`
+  - Git aðgerð sem færir _committed_ skrár frá okkar vél yfir á remote repo.
+- branches
+  - Þegar við víkjum frá meginlínu (yfirleitt kallað `main`) í vinnu okkar, leyfir okkur að gera tilraunir, breyta einhverju o.fl. án þes að hafa áhrif á annað.
+  - [Wikipedia: Branching (version control)](https://en.wikipedia.org/wiki/Branching_(version_control))
+- `merge`
+  - Git (og almenn útgáfustjórnunar) aðgerð sem sameinar tvær greinar saman.
+  - [Wikipedia: Merge (version control)](https://en.wikipedia.org/wiki/Merge_(version_control))
+- GitHub
+  - Stærsti hýsingaraðili fyrir Git repo.
+  - [Wikipedia: GitHub](https://en.wikipedia.org/wiki/GitHub)
+- GitHub workflow
+  - Vel skilgreint flæði fyrir vinnu með Git og GitHub.
+  - [GitHub flow](https://guides.github.com/introduction/flow/)
+- JavaScript
+- JavaScript týpur og aðgerðir
+- `string`
+- `number`
+  - [MDN `number`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#number_type)
+- `boolean`
+- `undefined`
+- `null`
+- Veikar týpur
+- _type coercion_
+- Truthy og falsy
