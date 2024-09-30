@@ -503,3 +503,17 @@ Samansafn af öllum lykilhugtökum í áfanganum.
 - Veikar týpur
 - _type coercion_
 - Truthy og falsy
+
+## Vika 8
+
+[Vikublað 8](vikur/vika-08.md)
+
+- Segðir (expressions)
+- Skipanir (statement)
+- Semíkomman í JavaScript
+- Breytur (variables)
+- Flæðistýringar
+- Lykkjur (loops)
+- Föll (functions)
+- Fylki (arrays)
+- Hlutir (objects)
