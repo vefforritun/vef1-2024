@@ -77,6 +77,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Gestafyrirlestur um hönnun; node.js & npm; Sass & Stylelint; CSS í stærri verkefnum
 - [Vika 7, 30. september—6. október 2024](vikur/vika-07.md)
   - Git & GitHub; JavaScript: gildi, týpur, virkjar
+- [Vika 8, 7.—13. október 2024](vikur/vika-08.md)
+  - JavaScript: stýriskipanir, föll, fylki, hlutir
 
 ## Verkefni
 
@@ -92,10 +94,13 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v2-synilausn)
 - [Verkefni 3 (CSS #1)](https://github.com/vefforritun/vef1-2024-v3), CSS grunnur.
   - Sett fyrir 3. september, skilist 12. september
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v3-synilausn)
 - [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2024-v4), CSS flexbox.
   - Sett fyrir 9. september, skilist 19. september
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v4-synilausn)
 - [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2024-v5), CSS grid.
   - Sett fyrir 16. september, skilist 26. september
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v5-synilausn)
 - [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2024-v6), CSS tæki og tól.
   - Sett fyrir 23. september, skilist 3. október
 

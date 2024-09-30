@@ -2,7 +2,12 @@
 
 ## Fyrirlestrar
 
-Koma eftir fyrirlestur 30. september.
+- [Fyrirlestur 7.1: Yfirferð á sýnilausn á verkefni 5 (33:28)](https://youtu.be/qIrvLW1ljdE)
+- [Fyrirlestur 7.2: Git, GitHub og byrjun á verkefni 6 (41:100)](https://youtu.be/zdMZj1DR9HQ)
+- [Fyrirlestur 7.3: NPM, tæki og tól í verkefni 6 (27:49)](https://youtu.be/weEtTdTH-lc)
+- [Fyrirlestur 7.4: Meira um hópverkefni 1 (10:00)](https://youtu.be/dRSRm8qxhLQ)
+
+Vefforritun 1, 2024, fyrirlestur 7.1: Yfirferð á sýnilausn á verkefni 5
 
 ## Námsefni
 
