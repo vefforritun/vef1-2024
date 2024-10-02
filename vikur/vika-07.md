@@ -7,7 +7,7 @@
 - [Fyrirlestur 7.3: NPM, tæki og tól í verkefni 6 (27:49)](https://youtu.be/weEtTdTH-lc)
 - [Fyrirlestur 7.4: Meira um hópverkefni 1 (10:00)](https://youtu.be/dRSRm8qxhLQ)
 
-Vefforritun 1, 2024, fyrirlestur 7.1: Yfirferð á sýnilausn á verkefni 5
+[Repo sem búið var til í tíma](https://github.com/osk/vef1-2024-v6).
 
 ## Námsefni
 
