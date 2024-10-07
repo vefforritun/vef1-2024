@@ -124,6 +124,6 @@ Sjá á Uglu og Canvas síðu námskeiðs.
 
 ## Lokapróf
 
-Nánar um lokapróf seinna.
+Lokapróf verður Inspera heimapróf haldið þriðjudaginn 26 nóvember 2024 kl. 09:00–12:00.
 
 Hægt er að nálgast eldri lokapróf á Uglu.
