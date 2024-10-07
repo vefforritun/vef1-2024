@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma eftir fyrirlestur 7. október.
+- [Fyrirlestur 8.1: Lokapróf, um námsefni og hópverkefni 1 (17:42)](https://youtu.be/6F5OkRwa76Q)
+- [Fyrirlestur 8.2: Git branches og Pull Requests (32:42)](https://youtu.be/q_z2qTuQABw)
+- [Fyrirlestur 8.3: JavaScript (23:53)](https://youtu.be/IoJ40FfVpMc)
+- [Fyrirlestur 8.4: Verkefni 7 (40:56)](https://youtu.be/vpFY_TrU_LY)
 
 ## Námsefni
 
@@ -36,5 +39,5 @@ Koma eftir fyrirlestur 7. október.
 - [ ] Skoða dæmi og prófa að keyra
   - [ ] Í vafra með því að afrita inn í console undir devtools
   - [ ] Í nodejs túlk
-- [ ] Vinna í og skila [verkefni 6](https://github.com/vefforritun/vef1-2024-v6)
+- [ ] Byrja á [verkefni 7](https://github.com/vefforritun/vef1-2024-v7)
 - [ ] Vinna í [hópverkefni 1](https://github.com/vefforritun/vef1-2024-h1)
