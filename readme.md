@@ -79,6 +79,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Git & GitHub; JavaScript: gildi, týpur, virkjar
 - [Vika 8, 7.—13. október 2024](vikur/vika-08.md)
   - JavaScript: stýriskipanir, föll, fylki, hlutir
+- [Vika 9, 14.—20. október 2024](vikur/vika-09.md)
+  - Einingar; forritun á vef: DOM og atburðir
 
 ## Verkefni
 
@@ -103,6 +105,9 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v5-synilausn)
 - [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2024-v6), CSS tæki og tól.
   - Sett fyrir 23. september, skilist 3. október
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v6-synilausn)
+- [Verkefni 7 (JavaScript #1)](https://github.com/vefforritun/vef1-2024-v7), JavaScript grunnur.
+  - Sett fyrir 7. október, skilist 17. október
 
 ### Hópverkefni
 
