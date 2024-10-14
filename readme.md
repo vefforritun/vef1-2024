@@ -81,6 +81,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - JavaScript: stýriskipanir, föll, fylki, hlutir
 - [Vika 9, 14.—20. október 2024](vikur/vika-09.md)
   - Einingar; forritun á vef: DOM og atburðir
+- [Vika 10, 21.—27. október 2024](vikur/vika-10.md)
+  - Ósamstillt forritun; HTTP & form; ajax; eslint
 
 ## Verkefni
 
@@ -108,6 +110,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v6-synilausn)
 - [Verkefni 7 (JavaScript #1)](https://github.com/vefforritun/vef1-2024-v7), JavaScript grunnur.
   - Sett fyrir 7. október, skilist 17. október
+- [Verkefni 8 (JavaScript #2)](https://github.com/vefforritun/vef1-2024-v8), JavaScript, DOM og eslint.
+  - Sett fyrir 14. október, skilist 24. október
 
 ### Hópverkefni
 
