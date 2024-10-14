@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Fyrirlestrar koma inn eftir fyrirlestur mánudaginn 14. október.
+- [Fyrirlestur 9.1: Meira um verkefni 7 (41:12)](https://www.youtube.com/watch?v=NxU6MWE5quk)
+- [Fyrirlestur 9.2: Verkefni 7 og Netlify (22:59)](https://www.youtube.com/watch?v=hKB-L_BJ6aE)
+- [Fyrirlestur 9.3: Eslint (13:53)](https://www.youtube.com/watch?v=r04i1MPP_5Q)
+- [Fyrirlestur 9.4: Verkefni 8 (27:56)](https://www.youtube.com/watch?v=2Sfcm0KfSaM)
 
 ## Námsefni
 
@@ -41,4 +44,4 @@ Fyrirlestrar koma inn eftir fyrirlestur mánudaginn 14. október.
 - [ ] Skoða DOM dæmi vel
 - [ ] Skoða events dæmi vel
 - [ ] Skoða JavaScript modules dæmi
-- [ ] Vinna í [verkefni 7](https://github.com/vefforritun/vef1-2024-v7)
+- [ ] Skila [verkefni 7](https://github.com/vefforritun/vef1-2024-v7)
