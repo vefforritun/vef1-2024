@@ -83,6 +83,10 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Einingar; forritun á vef: DOM og atburðir
 - [Vika 10, 21.—27. október 2024](vikur/vika-10.md)
   - Ósamstillt forritun; HTTP & form; ajax; eslint
+- [Vika 11, 28. október—3. nóvember 2024](vikur/vika-11.md)
+  - Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun
+- [Vika 12, 4.—10. nóvember 2024](vikur/vika-12.md)
+  - Hlutir; HTML5 og Web APIs; prófanir
 
 ## Verkefni
 
@@ -110,15 +114,20 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v6-synilausn)
 - [Verkefni 7 (JavaScript #1)](https://github.com/vefforritun/vef1-2024-v7), JavaScript grunnur.
   - Sett fyrir 7. október, skilist 17. október
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v7-synilausn)
 - [Verkefni 8 (JavaScript #2)](https://github.com/vefforritun/vef1-2024-v8), JavaScript, DOM og eslint.
   - Sett fyrir 14. október, skilist 24. október
+- [Verkefni 9 (JavaScript #3)](https://github.com/vefforritun/vef1-2024-v9), JavaScript, fetch og DOM.
+  - Sett fyrir 21. október, skilist 31. október
+- [Verkefni 10 (JavaScript #4)](https://github.com/vefforritun/vef1-2024-v10), forritun með JavaScript tólum og Web APIs.
+  - Sett fyrir 28. október, skilist 7. nóvember
 
 ### Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef1-2024-h1).
-  - Sett fyrir í kringum 23. september, skilist í lok október.
+  - Sett fyrir í kringum 23. september, skilist 24. október.
 - [Hópverkefni 2](https://github.com/vefforritun/vef1-2024-h2).
-  - Sett fyrir í kringum 21. október, skilist í lok nóvember.
+  - Sett fyrir í kringum 21. október, skilist 22. nóvember.
 
 ## Dæmatímar
 
