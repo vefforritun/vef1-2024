@@ -3,8 +3,8 @@
 ## Fyrirlestrar
 
 - [Fyrirlestur 10.1: Yfirferð á v7, týpur og debugger (36:54)](https://www.youtube.com/watch?v=yj-NE1uc2w8)
-- [Vefforritun 1, 2024, fyrirlestur 10.2: Meira um verkefni 8 (24:35)](https://www.youtube.com/watch?v=LBEvRBbXnmM)
-- [Vefforritun 1, 2024, fyrirlestur 10.3: Inngangur að verkefni 9 (43:39)](https://youtu.be/TjY6TTenRq8)
+- [Fyrirlestur 10.2: Meira um verkefni 8 (24:35)](https://www.youtube.com/watch?v=LBEvRBbXnmM)
+- [Fyrirlestur 10.3: Inngangur að verkefni 9 (43:39)](https://youtu.be/TjY6TTenRq8)
 
 ## Námsefni
 

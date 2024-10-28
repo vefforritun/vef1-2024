@@ -493,16 +493,34 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - Vel skilgreint flæði fyrir vinnu með Git og GitHub.
   - [GitHub flow](https://guides.github.com/introduction/flow/)
 - JavaScript
+  - „Forritunarmál vefsins“, staðlað hjá ECMA sem ECMAScript.
+  - [Wikipedia: JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - JavaScript týpur og aðgerðir
+  - JavaScript styður ákveðnar týpur og reikniaðgerðir.
 - `string`
+  - Strengi í JavaScript er hægt að skilgreina með `'`, `"` eða `` ` ``, þeir eru geymdir sem óbreytanleg röð af unicode stöfum.
 - `number`
+  - Allar tölur í JavaScript eru geymdar sem `number`, hvort þær sem eru heiltölur eða tölur með broti. Vegna þess hvernig þær eru geymdar geta þær verið ónákvæmar.
   - [MDN `number`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#number_type)
 - `boolean`
+  - Gildi sem er annaðhvort `true` eða `false`.
+  - [MDN `boolean`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#boolean_type)
 - `undefined`
+  - Gildi á breytum og eigindum hluta sem ekki hafa verið skilgreind.
+  - [MDN `undefined`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#undefined_type)
 - `null`
+  - Gildi sem stendur fyrir að vísvitandi fjarveru gildis.
+  - [MDN `null`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#null_type)
 - Veikar týpur
+  - Í JavaScript hafa breytur ekki týpur heldur hafa gildi týpur, þegar við notum gildi í óviðeigandi aðgerðir getum við fengið óvæntar niðurstöður.
+  - [Wikipedia: Strong and weak typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
 - _type coercion_
+  - Sjálfkrafa breyting á týpu gilda í JavaScript út frá því hvernig þau eru notuð.
+  - [MDN: Type coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
 - Truthy og falsy
+  - Þegar við nýtum _type coercion_ til að fá gildi til að haga sér eins og `boolean` gildi, falsy gildi eru `false`, `0`, `''`, `null`, `undefined`, `NaN` og truthy gildi eru öll önnur gildi.
+  - [MDN: Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+  - [MDN: Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 
 ## Vika 8
 
@@ -517,3 +535,66 @@ Samansafn af öllum lykilhugtökum í áfanganum.
 - Föll (functions)
 - Fylki (arrays)
 - Hlutir (objects)
+
+## Vika 9
+
+[Vikublað 9](vikur/vika-09.md)
+
+- DOM (Document Object Model)
+- DOM tré og nóður, vísanir þeirra á milli
+- `querySelector` og `querySelectorAll`
+- Breytingar á DOM tré
+- Búa til element og nóður í DOM tré
+- Attributes og DOM
+- `dataset`
+- `classList`
+- Atburðir (events)
+- Upplýsingar um atburð (event)
+- Sjálfgefin hegðun og `preventDefault()`
+- Einingar og API
+- JavaScript/ECMAScript modules
+
+## Vika 10
+
+[Vikublað 10](vikur/vika-10.md)
+
+- Ósamstillt forritun (async)
+- Promises og stöður þeirra
+- `then` og `catch`
+- `async` og `await`
+- HTTP
+- `GET` og `POST`
+- HTTP stöðukóðar
+- `URL` og `URLSearchParams`
+- JSON
+- `fetch`
+- Stöður á ósamstilltum köllum / vefþjónustuköllum:
+  - `loading`
+  - `error`
+  - `empty`
+  - `data`
+- eslint
+
+## Vika 11
+
+[Vikublað 11](vikur/vika-11.md)
+
+- Villumeðhöndlun
+- `try` og `catch`
+- Reglulegar segðir (regular expressions)
+- Fallaforritun (functional programming)
+- Transpiling
+- Pökkun á kóða
+
+## Vika 12
+
+[Vikublað 12](vikur/vika-12.md)
+
+- Hlutir (objects)
+- `this`
+- Prótótýpur
+- Prótótýpukeðjan
+- Klasar (`class`) í JavaScript
+- Prófanir
+- Jest
+- Web APIs

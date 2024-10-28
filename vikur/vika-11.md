@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 28. október.
+- [Fyrirlestur 11.1: Prufupróf í Inspera (7:18)](https://www.youtube.com/watch?v=j_pjXMn0ZcE)
+- [Fyrirlestur 11.2: Verkefni 9, async útfærslur (46:54)](https://www.youtube.com/watch?v=9_N6wTkdkvs)
+- [Fyrirlestur 11.3: Hópverkefni 2 (22:55)](https://youtu.be/oi4pSYgvX2M)
+- [Fyrirlestur 11.4: Verkefni 9, útfærslur á stöðum (37:34)](https://www.youtube.com/watch?v=ufqLNV2zJgQ)
 
 ## Námsefni
 
