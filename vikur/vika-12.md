@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 4. nóvember.
+- [Fyrirlestur 12.1: Verkefni 10 (45:27)](https://www.youtube.com/watch?v=CTOuUr-YX7c)
+- [Fyrirlestur 12.2: Hópverkefni 2 inngangur (1:13:51)](https://www.youtube.com/watch?v=NoAVU4wzceg)
+  - [GitHub repo með því sem unnið var í tíma](https://github.com/vefforritun/vef1-2024-h2-ur-fyrirlestri)
 
 ## Námsefni
 
