@@ -526,75 +526,199 @@ Samansafn af öllum lykilhugtökum í áfanganum.
 
 [Vikublað 8](vikur/vika-08.md)
 
-- Segðir (expressions)
-- Skipanir (statement)
+- Segðir
+  - _Expressions_
+  - Segð er kóðabútur sem skilar gildi, getur innihaldið aðra segð
+  - [MDN: Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- Skipanir
+  - _Statements_
+  - Samansafn af segðum, forrit eru samansöfn af skipunum
+  - [MDN: Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
 - Semíkomman í JavaScript
-- Breytur (variables)
+  - Í JavaScript er semíkomma valkvæm _statement terminator_, ef sleppt er _automatic semicolon insertion_ reikniritið notað til að setja inn semíkommu
+  - [MDN: Automatic semicolon insertion](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#automatic_semicolon_insertion)
+- Breytur
+  - _Variables_
+  - Breytur eru skilgreindar með `let`, `const` eða `var` og innihalda vísanir í gildi, breytur hafa ekki týpu, gildið hefur týpu
+  - [MDN: let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+  - [MDN: const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 - Flæðistýringar
-- Lykkjur (loops)
-- Föll (functions)
-- Fylki (arrays)
-- Hlutir (objects)
+  - _Control flow_
+  - Með ákveðnum skipunum í formi `if` og `switch` getum við stýrt flæði forrits
+  - [MDN: Control flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+- Lykkjur
+  - _Loops_
+  - Með ákveðnum skipunum í formi `for`, `while` og `do...while` getum við endurtekið skipanir í flæði forrits
+  - [MDN: Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- Föll
+  - _Functions_
+  - Blokk af kóði sem getur haft nafn (ef ekki nefnd _nafnlaus föll_ eða _anonymous functions_) og skilað gildi, notum til að skipuleggja kóða og draga úr endurtekningu
+  - [MDN: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- Fylki
+  - _Arrays_
+  - Raðaður listi af gildum, hægt að nálgast gildi eftir _index_ (byrjar ´0´) með _bracket notation_ `[]`
+  - [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- Hlutir
+  - _Objects_
+  - Gildi sem geymir núll til fleiri gildi sem nafn-gildis pör, hægt að nálgast gildi með _dot notation_ `.` eða _bracket notation_ `[]`
+  - [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 ## Vika 9
 
 [Vikublað 9](vikur/vika-09.md)
 
-- DOM (Document Object Model)
+- DOM
+  - _Document Object Model_
+  - Leyfir forritum og skriptum að gera dýnamískar breytingar á efni, skipulagi og útliti skjala (oftast HTML eða XML) gegnum API
+  - [MDN: Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - DOM tré og nóður, vísanir þeirra á milli
+  - DOM er tré og hefur nóður sem tengjast, við getum fundið, búið til, breytt og eytt nóðum.
 - `querySelector` og `querySelectorAll`
+  - Aðferðir til að finna nóður í DOM tré með CSS selector
+  - [MDN: querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+  - [MDN: querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 - Breytingar á DOM tré
+  - Við getum notað DOM aðgerðir til að breyta DOM tré, t.d. `removeChild`, `appendChild`, `insertBefore`, `replaceChild`.
+  - [MDN: Node.removeChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)
 - Búa til element og nóður í DOM tré
+  - Við getum búið til nýjar nóður með `document.createElement` og `document.createTextNode`.
 - Attributes og DOM
+  - Við getum bætt við, breytt og fjarlægt attributes á nóðum með `setAttribute`, `getAttribute` og `removeAttribute`.
+  - [MDN: Element.setAttribute](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)
 - `dataset`
+  - Við getum bætt við gögnum á nóður með `dataset` eiginleikanum, heiti á gögnum byrja á `data-`.
+  - [MDN: HTMLElement.dataset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
 - `classList`
-- Atburðir (events)
+  - Við getum átt við `class` á nóðum með `classList` eiginleikanum, t.d. bætt við, fjarlægt og athugað hvort nóðan hafi ákveðið `class`.
+  - [MDN: Element.classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+- Atburðir
+  - _Events_
+  - Þegar við bregðumst við atburðum á vefnum, t.d. smellt á takka, skrollað eða ýtt á músarhnapp.
+  - [MDN: Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 - Upplýsingar um atburð (event)
+  - Fáum `Event` hlut sem inniheldur upplýsingar um atburðinn, t.d. um hvaða lykil var slegið á lyklaborð, eða hvaða takka á mús.
+  - [MDN: Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 - Sjálfgefin hegðun og `preventDefault()`
-- Einingar og API
+  - Element með gagnvirk virkni (interactive) á vefnum gera eitthvað sjálfgefið, t.d. form sendir gögn, með `preventDefault` getum við stöðvað þessa hegðun.
+  - [MDN: Event.preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
+- Einingar
+  - _Modules_
+  - Leið til að skipta forritum upp í frekari einingar en eingöngu föll og breytur, hægt að skilgreina hvaða hluti af kóðanum er aðgengilegur utan einingarinnar.
+  - [Wikipedia: Modular programming](https://en.wikipedia.org/wiki/Modular_programming)
+- API
+  - _Application Programming Interface_
+  - Skilgreint viðmót forrita og eininga
+  - [Wikipedia: Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)
 - JavaScript/ECMAScript modules
+  - Stöðluð virkni í JavaScript til að skipta forritum upp í einingar
+  - [MDN: JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 ## Vika 10
 
 [Vikublað 10](vikur/vika-10.md)
 
-- Ósamstillt forritun (async)
-- Promises og stöður þeirra
-- `then` og `catch`
+- Ósamstillt forritun
+  - _Asynchronous programming_
+  - Forrit sem sækja gögn á harðan disk, yfir netið, nýta atburði o.fl. eru ósamstillt: við þurfum að bíða eftir að aðgerðir klárast.
+  - [Wikipedia: Asynchronous programming](https://en.wikipedia.org/wiki/Asynchronous_programming)
+- Promises og stöður þeirra, `then` og `catch`
+  - Hjúpum ósamstilltar aðgerðir í `Promise` hlut, getum notað `then` og `catch` til að bregðast við þegar aðgerð klárast eða fer úrskeiðis.
+  - [Wikipedia: Promise (programming)](https://en.wikipedia.org/wiki/Promise_(programming))
+  - [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - `async` og `await`
+  - _Syntactic sugar_ fyrir `Promise`, einfaldar kóða og getur gert hann lesanlegri.
+  - [Wikipedia: Syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar)
+  - [Wikpedia: async/await](https://en.wikipedia.org/wiki/Async/await)
+  - [MDN: async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 - HTTP
-- `GET` og `POST`
+  - _Hypertext Transfer Protocol_
+  - Samskiptastaðall á milli _client_ og _server_, yfirleitt vafra og vefþjóns.
+  - [Wikipedia: Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- `GET`
+  - HTTP aðferð sem er mest notuð, sækir efni (_resource_) frá vefþjón.
+  - [Wikipedia: GET](https://en.wikipedia.org/wiki/HTTP#Request_methods)
+- `POST`
+  - HTTP aðferð sem er notuð til að senda gögn á vefþjón.
+  - [Wikipedia: POST](https://en.wikipedia.org/wiki/HTTP#Request_methods)
 - HTTP stöðukóðar
+  - Þegar HTTP aðferð klárast geta þær skilað stöðukóða, t.d. `200` fyrir OK—gekk upp eða `404` fyrir „fannst ekki“.
+  - [Wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 - `URL` og `URLSearchParams`
+  - Web API sem leyfir okkur að vinna með URL og leitarstrengi.
+  - [MDN: URL](https://developer.mozilla.org/en-US/docs/Web/API/URL)
+  - [MDN: URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
 - JSON
+  - _JavaScript Object Notation_
+  - Létt gagna format, byggt á JavaScript hlutum, sem er algengt í vefþjónustuköllum.
+  - [Wikipedia: JSON](https://en.wikipedia.org/wiki/JSON)
 - `fetch`
+  - Web API sem leyfir okkur að sækja gögn yfir netið, skilar `Promise`.
+  - [MDN: fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - Stöður á ósamstilltum köllum / vefþjónustuköllum:
-  - `loading`
-  - `error`
-  - `empty`
-  - `data`
+  - `loading`, hvað sýnum við meðan við erum að sækja gögn? Það getur tekið allt frá örfáfum `ms` uppí fleiri `sek`
+  - `error`, hvað sýnum við ef þjónustan skilar villu?
+  - `empty`, þjónustan svaraði en við fáum „tóma“ svarið
+  - `data`, allt gekk upp
 - eslint
+  - Linter fyrir JavaScript kóða sem við setjum upp með NPM.
+  - [Wikipedia: Lint (software)](https://en.wikipedia.org/wiki/Lint_(software))
+  - [eslint](https://eslint.org/)
 
 ## Vika 11
 
 [Vikublað 11](vikur/vika-11.md)
 
 - Villumeðhöndlun
+  - _Exception handling_
+  - Þegar villur koma upp í JavaScript forritum (kóði getur _kastað_—throw—villu) getum við brugðist við þeim
+  - [MDN: Exception handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 - `try` og `catch`
-- Reglulegar segðir (regular expressions)
-- Fallaforritun (functional programming)
+  - Við getum sett kóða sem gæti kastað villu í `try` blokk og bregðist við henni í `catch` blokk.
+  - [MDN: try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
+- Reglulegar segðir
+  - _Regular expressions_
+  - Mynstur sem við getum notað til að finna og vinna úr texta.
+  - [Wikipedia: Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
+  - [MDN: Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- Fallaforritun
+  - _Functional programming_
+  - Leið til að skrifa forrit sem byggir helst á föllum, ekki breytum og stöðum.
+  - [Wikipedia: Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 - Transpiling
+  - Tól eða þýðandi sem breytir kóða frá einu forritunarmáli í annað.
+  - [Wikipedia: Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
 - Pökkun á kóða
+  - _Code bundling_
+  - Þegar við skrifum kóða í mörgum skrám gæti verið að kostur að „pakka“ þeim saman í eina (eða fleiri, þó færri en upprunalega) skrá.
 
 ## Vika 12
 
 [Vikublað 12](vikur/vika-12.md)
 
-- Hlutir (objects)
+- Hlutir
+  - _Objects_
+  - Eitt af aðalhugtökum hlutbundinnar forritunar, hlutur er safn af gögnum og aðferðum sem vinna með þau.
+  - [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 - `this`
+  - Breyta sem vísar í samhengi, oft innan hlutar, getur verið ólíkt eftir því hvernig er kallað.
+  - [MDN: this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - Prótótýpur
+  - _Prototypes_
+  - Útfærsla JavaScript á erfðum byggir á prótótýpum, hlutur erfir frá öðrum hlut með því að vísa á prótótýpu.
+  - [MDN: Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 - Prótótýpukeðjan
+  - _Prototype chain_
+  - Eftir því sem hlutur erfir frá öðrum hlutum myndast keðja af prótótýpum.
+  - [MDN: Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 - Klasar (`class`) í JavaScript
+  - _Syntactic sugar_ fyrir hlutbundna forritun, einfaldar útlit klasa og erfða, verður líkara öðrum forritunarmálum.
+  - [MDN: Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - Prófanir
+  - Þegar við skrifum kóða erum við alltaf að athuga hvernig hann virkar, próf og prófanir er hægt að framkvæma sjálfvirkt með ýmsum leiðum.
+  - [Wikipedia: Software testing](https://en.wikipedia.org/wiki/Software_testing)
 - Jest
+  - Tól til að prófa JavaScript kóða.
+  - [jest](https://jestjs.io/)
 - Web APIs
+  - Stöðluð viðmót sem vafra býður upp á, t.d. `DOM`, `fetch`, `localStorage` o.fl.
+  - [MDN: Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)

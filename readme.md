@@ -27,6 +27,12 @@ Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md)
 
 [Kennslualmanak háskólaárið 2024–2025](https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=51730%3Den).
 
+## Lokapróf
+
+Lokapróf verður Inspera heimapróf haldið þriðjudaginn 26. nóvember 2024 kl. 09:00–12:00.
+
+[Sjá nánar um lokapróf](namsefni/41.lokaprof/).
+
 ## Vikublöð
 
 Hvert vikublað samanstendur af:
@@ -134,9 +140,3 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 Dæmatímar eru í vikum 2–14.
 
 Sjá á Uglu og Canvas síðu námskeiðs.
-
-## Lokapróf
-
-Lokapróf verður Inspera heimapróf haldið þriðjudaginn 26 nóvember 2024 kl. 09:00–12:00.
-
-Hægt er að nálgast eldri lokapróf á Uglu.
