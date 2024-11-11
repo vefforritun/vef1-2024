@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 11. nóvember.
+- [Fyrirlestur 13.1: Um lokapróf, yfirferð á lokaprófi 2024 (1:10:54)](https://youtu.be/vNWPeIIXPxE)
+- [Fyrirlestur 13.2: Meira um hópverkefni 2 (34:37)](https://youtu.be/-BHhUWZypEo)
+  - [GitHub repo með því sem unnið var í tíma](https://github.com/vefforritun/vef1-2024-h2-ur-fyrirlestri)
 
 ## Efni
 
